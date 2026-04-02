@@ -1,5 +1,12 @@
 {
   "dependencies": {
-    "exceljs": "^4.4.0"
+    "exceljs": "^4.4.0",
+    "jest": "^30.3.0"
+  },
+  "devDependencies": {
+    "chai": "^6.2.2",
+    "mocha": "^11.7.5",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
   }
 }
